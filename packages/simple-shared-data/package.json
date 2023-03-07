@@ -1,0 +1,29 @@
+{
+  "name": "simple-shared-data",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "chauminhquang <quangcm@unicloud.com.vn>",
+  "homepage": "https://github.com/chauminhquang10/git-two#readme",
+  "license": "ISC",
+  "main": "lib/simple-shared-data.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chauminhquang10/git-two.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/simple-shared-data.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/chauminhquang10/git-two/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
